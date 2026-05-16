@@ -44,6 +44,10 @@ This project presents a Machine Learning based Credit Card Fraud Detection Syste
 | 0 | Legitimate Transaction |
 | 1 | Fraudulent Transaction |
 
+## Dataset Source
+
+Dataset used in this project was downloaded from the Kaggle Credit Card Fraud Detection Dataset.
+
 ---
 
 ## ⚙️ Project Workflow
